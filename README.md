@@ -158,19 +158,21 @@
 </details>
 <details> 
   <summary><h2 align='center'><a href="https://github.com/Aniketyadav05">
-<img src="https://pngtree.com/freepng/freelancer-software-developer-programmer-coder-illustrator_16198325.html" width = 35px height = 35px></a> Live Projects</h2>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZsbTI4dnE3aHEycnpwcXU3ZmRnb2h6cm42OXk0c2U0N2IwMXJvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6DZ8k92zhbw5XGg5EL/giphy.gif" width = 35px height = 35px></a> Live Projects</h2>
   </summary>
-  [![Thrill Events]](https://thrill-events.netlify.app/)
+  
+[![Thrill Events](https://img.shields.io/badge/thrillevents-red)](https://thrill-events.netlify.app/)
+
 </details>
 <!--🏆Competitive Coding Profile-->
 <details > 
   <summary><h2 align='center'><a href="https://github.com/Aniketyadav05">
 <img src="https://github.com/user-attachments/assets/5b3cb883-6652-4525-a352-b4b9a3501e07" width = 35px height = 35px></a> Competitive Coding</h2>
   </summary>
-<div align="center">
+
 [![GeeksForGeeks](https://img.shields.io/badge/geeksforfeeks-Aniket-green)](https://www.geeksforgeeks.org/user/yadavani3yuk/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/u/aniket05_/)
-</div>
+
 
 <div align="center"
         
