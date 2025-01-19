@@ -161,7 +161,15 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZsbTI4dnE3aHEycnpwcXU3ZmRnb2h6cm42OXk0c2U0N2IwMXJvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6DZ8k92zhbw5XGg5EL/giphy.gif" width = 35px height = 35px></a> Live Projects</h2>
   </summary>
   
-[![Thrill Events](https://img.shields.io/badge/thrillevents-red)](https://thrill-events.netlify.app/)
+<a href="https://thrill-events.netlify.app/">
+  <img src="https://img.shields.io/badge/ThrillEvents-%2333f9ff" alt="Thrill Events" style="width:150px; height:50px;">
+</a>
+<a href="https://aniprojects-web.github.io/rtucgpacalculator/">
+  <img src="https://img.shields.io/badge/CGPACalculator-%2383ff33" alt="CGPA CALCULATOR" style="width:150px; height:50px;">
+</a>
+<a href="https://aniprojects-web.github.io/Resume-builder/">
+  <img src="https://img.shields.io/badge/ResumeBuilder-white" alt="CGPA CALCULATOR" style="width:150px; height:50px;">
+</a>
 
 </details>
 <!--🏆Competitive Coding Profile-->
