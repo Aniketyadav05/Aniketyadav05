@@ -199,13 +199,12 @@
   <br>
 
 <!--📏LINE-->
-<!--<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0447.gif" height="1" width="100%">-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
   </br>
   <!--🏆 GitHub Streak-->
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Aniketyadav05&theme=dark-minimalist&short_numbers=true" alt="GitHub Streak" /></a>
+<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Aniketyadav05&theme=dark-minimalist&short_numbers=true"  />
 </td>
 
 <td align='center' width="510">
