@@ -215,9 +215,6 @@
 <b>Note:</b> Top languages only hint at the colorful palette of coding languages I've explored. Yet, they're like a trailer to an epic movie, teasing the excitement of what lies beneath the surface. Dive deeper, and you'll discover the mastery and artistry I bring to each line of code, painting vibrant solutions with finesse. 
 
 <h3>📈 Activity Graph </h3>
-<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<!--<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Hunterdii&color=0E9C47&style=for-the-badge">-->
 
 <table width="100">
         <tr border="0">
@@ -226,3 +223,7 @@
 </td>
 </tr>
 </table>
+<div align="center">
+  <h2><b>👀 Visitor Count</b></h2>
+  <img src="https://count.getloli.com/@:name?theme=booru-huggboo" alt=":name" />
+</div>
