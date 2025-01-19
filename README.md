@@ -122,6 +122,9 @@
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="120">
     </td>
+<td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" width="120">
+    </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="120">
     </td>
