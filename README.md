@@ -12,7 +12,7 @@
 <table width="120" align="center">
   <tr>  
     <td align="center" width="60">
-      <a href="www.linkedin.com/in/aniketyadav05"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" height="36" width="65"></a>
+      <a href="https://linkedin.com/in/aniketyadav05"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" height="36" width="65"></a>
     </td>
     <td align="center" width="60">
       <a href="https://x.com/AniketYadav05_"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" width="60"></a>
