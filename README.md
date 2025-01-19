@@ -24,13 +24,19 @@
       <a href="mailto:yadavaniket7611@gmail.com"><img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="80"></a>
     </td>
     <td align="center" width="60">
-      <a href="/"><img src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true" width="60"></a>
+      <a href="https://drive.google.com/file/d/1BVbhy5SLCkwUWaPn8ZcsL4of6Hmw-pdW/view?usp=sharing"><img src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true" width="60"></a>
     </td>
   </tr>
 </table>
+ <br>
+
+<!--📏LINE-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+  </br>
 
 <a href="https://github.com/Aniketyadav05">
-<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDgzd2ExNzB0cGs3N3NzdW5tbTlkNWF5OTd4enJoZjF5a2NhbjF3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" style="margin-top: 2000px"></a>
+<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDgzd2ExNzB0cGs3N3NzdW5tbTlkNWF5OTd4enJoZjF5a2NhbjF3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300"></a>
 
 ### ✔️ I'm currently learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Back-end Development🔐
@@ -41,13 +47,13 @@
 ### 💻 I'm working on
 - My portfolio website 💼
 - RTU-Study-Resources(Website) 🚀
-- A advanced assignment manager for colleges
+- A advanced assignment manager for colleges📔
   
 ### 🌱 Goals for 2025
 - Complete #100DaysOfCode challenge 💯.
 - Build 30+ projects 🛠️.
 - Contribute to Open Source 🌐.
-- Get Placed 
+- Get Placed 🏆
 
 ### 💭 Ask me about
 - Designing 🎨
