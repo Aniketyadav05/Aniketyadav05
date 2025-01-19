@@ -162,8 +162,7 @@
   <summary><h2 align='center'><a href="https://github.com/Aniketyadav05">
 <img src="https://github.com/user-attachments/assets/5b3cb883-6652-4525-a352-b4b9a3501e07" width = 35px height = 35px></a> Competitive Coding</h2>
   </summary>
-[![GeeksForGeeks](https://img.shields.io/badge/geeksforfeeks-hunterdxwfu-green)](https://www.geeksforgeeks.org/user/yadavani3yuk/)	
-[![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/u/aniket05_/)
+
 [![GeeksForGeeks](https://img.shields.io/badge/geeksforfeeks-hunterdxwfu-green)](https://auth.geeksforgeeks.org/user/hunterdxwfu)
 <div align="center">
         
