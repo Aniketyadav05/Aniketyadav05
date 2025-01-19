@@ -1,8 +1,10 @@
-<h2 align="center">नमस्ते(Namaste)🙏 , ナマステ🙏,  I'm Aniket Yadav</h2>
+<h2 align="center">
+  <a href= "https://github.com/Aniketyadav05"> <img src = "https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&center=true&vCenter=true&repeat=false&width=435&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87(Namaste)%F0%9F%99%8F+%2C+%E3%83%8A%E3%83%9E%E3%82%B9%E3%83%86%F0%9F%99%8F%2C++I'm+Aniket+Yadav)]" alt= "Typing Svg" align="center" /> </a>
+</h2>
 
 <p align="center">
   <a href="https://github.com/Aniketyadav05">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&weight=800&pause=1000&color=8227F7&center=true&vCenter=true&width=435&lines=I'm+a+Front-end+Developer;Future+Full-stack+Developer;2%2B+Years+of+Learning+Coding)](https://git.io/typing-svg" align="center" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&weight=800&pause=1000&color=8227F7&center=true&vCenter=true&width=435&lines=I'm+a+Front-end+Developer;Future+Full-stack+Developer;2%2B+Years+of+Learning+Coding" align="center" /></a>
 </p>
 
 
