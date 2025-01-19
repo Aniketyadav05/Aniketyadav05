@@ -30,7 +30,7 @@
 </table>
 
 <a href="https://github.com/Aniketyadav05">
-<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDgzd2ExNzB0cGs3N3NzdW5tbTlkNWF5OTd4enJoZjF5a2NhbjF3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" margin-top="20px"></a>
+<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDgzd2ExNzB0cGs3N3NzdW5tbTlkNWF5OTd4enJoZjF5a2NhbjF3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" margin-top = 50px ></a>
 
 ### ✔️ I'm currently learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Back-end Development🔐
@@ -154,7 +154,7 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZsbTI4dnE3aHEycnpwcXU3ZmRnb2h6cm42OXk0c2U0N2IwMXJvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6DZ8k92zhbw5XGg5EL/giphy.gif" width = 35px height = 35px></a> Live Projects</h2>
   </summary>
   
- <div display='flex' flex-direction='column'> 
+ <div style="display: flex; flex-direction: column; gap: 10px;"> 
 <a href="https://thrill-events.netlify.app/">
   <img src="https://img.shields.io/badge/ThrillEvents-%2333f9ff" alt="Thrill Events" style="width:150px; height:50px;">
 </a>
