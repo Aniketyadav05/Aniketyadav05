@@ -3,7 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&weight=800&pause=1000&color=8227F7&center=true&vCenter=true&width=435&lines=I'm+a+Front-end+Developer;Future+Full-stack+Developer;2%2B+Years+of+Learning+Coding)](https://git.io/typing-svg)
 ###
 
- <tr>
+ <!--<table width="120" align="center">
+  <tr>
     <td align="center" width="60">
       <a href="https://twitter.com/HetPate94938685"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
     </td>
@@ -21,8 +22,6 @@
     </td>
   </tr>
 </table>-->
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aniketyadav05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aniketyadav05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
