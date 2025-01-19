@@ -1,10 +1,10 @@
 <h2 align="center">नमस्ते(Namaste)🙏 , ナマステ🙏,  I'm Aniket Yadav</h2>
 
 <p align="center">
-  <a href="https://github.com/">
+  <a href="https://github.com/Aniketyadav05">
     <img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&weight=800&pause=1000&color=8227F7&center=true&vCenter=true&width=435&lines=I'm+a+Front-end+Developer;Future+Full-stack+Developer;2%2B+Years+of+Learning+Coding)](https://git.io/typing-svg" align="center" /></a>
 </p>
-[![Typing SVG]()
+
 
 
 <table width="120" align="center">
@@ -31,7 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Aniketyadav05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aniketyadav05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-<a href="https://github.com/">
+<a href="https://github.com/Aniketyadav05">
 <img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDgzd2ExNzB0cGs3N3NzdW5tbTlkNWF5OTd4enJoZjF5a2NhbjF3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300"></a>
 
 ### ✔️ I'm currently learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
