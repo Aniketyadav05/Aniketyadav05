@@ -204,7 +204,8 @@
 
   </br>
   <!--🏆 GitHub Streak-->
- <img src="https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)]"/>
+  <td>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aniketyadav05&theme=dark-minimalist&short_numbers=true)](https://git.io/streak-stats)
 </td>
 
 <td align='center' width="510">
