@@ -204,7 +204,7 @@
   </br>
   <!--🏆 GitHub Streak-->
 
-<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Aniketyadav05&theme=dark-minimalist&short_numbers=true"  />
+<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aniketyadav05&theme=github-dark-blue&hide_border=true"  />
 </td>
 
 <td align='center' width="510">
