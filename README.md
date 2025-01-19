@@ -194,7 +194,6 @@
       <td align='center' width="510">
   
 <!--🔝 Rank Gitthub Appearance-->
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Hunterdii&theme=github_dark&rank_icon=github&show_icons=true&count_private=true&hide_border=true" />
   
   <img src="https://gh-readme-profile.vercel.app/api?username=Aniketyadav05&theme=github_dark_tritanopia&border_width=0.1&photo_quality=100&format=svg&hide=issues&border_radius=17.5&hide_border=true&stroke_color=1F6FEB&bg_color=0D1117" />
   <br>
