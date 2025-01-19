@@ -164,7 +164,7 @@
   </summary>
 [![GeeksForGeeks](https://img.shields.io/badge/geeksforfeeks-hunterdxwfu-green)](https://www.geeksforgeeks.org/user/yadavani3yuk/)	
 [![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/u/aniket05_/)
-
+[![GeeksForGeeks](https://img.shields.io/badge/geeksforfeeks-hunterdxwfu-green)](https://auth.geeksforgeeks.org/user/hunterdxwfu)
 <div align="center">
         
   ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
