@@ -163,7 +163,9 @@
 <img src="https://github.com/user-attachments/assets/5b3cb883-6652-4525-a352-b4b9a3501e07" width = 35px height = 35px></a> Competitive Coding</h2>
   </summary>
 
-[![GeeksForGeeks](https://img.shields.io/badge/geeksforfeeks-hunterdxwfu-green)](https://auth.geeksforgeeks.org/user/hunterdxwfu)
+[![GeeksForGeeks](https://img.shields.io/badge/geeksforfeeks-Aniket-green)](https://www.geeksforgeeks.org/user/yadavani3yuk/)
+
+
 <div align="center">
         
   ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
