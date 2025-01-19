@@ -160,7 +160,7 @@
   <summary><h2 align='center'><a href="https://github.com/Aniketyadav05">
 <img src="https://pngtree.com/freepng/freelancer-software-developer-programmer-coder-illustrator_16198325.html" width = 35px height = 35px></a> Live Projects</h2>
   </summary>
-  [![Thrill Events](https://img.shields.io/badge/thrillEvents-Aniket-green)](https://thrill-events.netlify.app/)
+  [![Thrill Events]](https://thrill-events.netlify.app/)
 </details>
 <!--🏆Competitive Coding Profile-->
 <details > 
