@@ -24,13 +24,13 @@
       <a href="mailto:yadavaniket7611@gmail.com"><img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="80"></a>
     </td>
     <td align="center" width="60">
-      <a href="https://drive.google.com/file/d/1ENgW8wWwbRlkos5c5l7vBbZ7AeAl443e/view?usp=drive_link"><img src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true" width="60"></a>
+      <a href="/"><img src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true" width="60"></a>
     </td>
   </tr>
 </table>
 
 <a href="https://github.com/Aniketyadav05">
-<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDgzd2ExNzB0cGs3N3NzdW5tbTlkNWF5OTd4enJoZjF5a2NhbjF3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" margin-top = 50px ></a>
+<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDgzd2ExNzB0cGs3N3NzdW5tbTlkNWF5OTd4enJoZjF5a2NhbjF3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" style="margin-top: 2000px"></a>
 
 ### ✔️ I'm currently learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Back-end Development🔐
@@ -55,7 +55,7 @@
 <a href="buymeacoffee.com/Aniket05_"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
 ### ⚡ Fun fact 
-- 🐱‍💻 My GitHub codes = 20%  🙋‍♂️ Me + 40%  💡 StackOverflow + 5%  🔍 Google + 15%  🤖 ChatGPT + 20%
+- 🐱‍💻 My GitHub codes = 50%  🙋‍♂️ Me + 10%  💡 StackOverflow + 10%  🔍 Google + 25%  🤖 ChatGPT + 5% Youtube ▶️
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -65,7 +65,7 @@
   <summary><h2 align='center'><a href="https://github.com/Hunterdii">
 <img src="https://github.com/user-attachments/assets/0cefad05-58a9-4aa0-a070-f75a0c9b0353" height="32px"></a> Languages and Tools</h2>
   
-  <a href="https://github.com/Hunterdii">
+  <a href="https://github.com/Aniketyadav05">
   </a>
  </summary> 
  <div style="display: flex; align-items: flex-start; align: center">
@@ -154,7 +154,7 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZsbTI4dnE3aHEycnpwcXU3ZmRnb2h6cm42OXk0c2U0N2IwMXJvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6DZ8k92zhbw5XGg5EL/giphy.gif" width = 35px height = 35px></a> Live Projects</h2>
   </summary>
   
- <div style="display: flex; flex-direction: column; gap: 10px;"> 
+ <div> 
 <a href="https://thrill-events.netlify.app/">
   <img src="https://img.shields.io/badge/ThrillEvents-%2333f9ff" alt="Thrill Events" style="width:150px; height:50px;">
 </a>
