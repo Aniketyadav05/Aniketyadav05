@@ -3,19 +3,24 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&weight=800&pause=1000&color=8227F7&center=true&vCenter=true&width=435&lines=I'm+a+Front-end+Developer;Future+Full-stack+Developer;2%2B+Years+of+Learning+Coding)](https://git.io/typing-svg)
 ###
 
-<div align="center">
-  <a href="www.linkedin.com/in/aniketyadav05" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
-  <a href="https://x.com/AniketYadav05_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
-  </a>
-  <a href="yadavaniket7611@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
+ <tr>
+    <td align="center" width="60">
+      <a href="https://twitter.com/HetPate94938685"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.linkedin.com/in/het-patel-8b110525a/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.youtube.com/@alpharoman9602"><img src="https://github.com/Hunterdii/Hunterdii/blob/main/Images/youtube-icon.svg" width="60"></a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://discord.com/channels/1106636869795590254/1106636869795590257"><img src="https://github.com/Hunterdii/Hunterdii/blob/main/Images/discord-tile.svg" width="60"></a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.buymeacoffee.com/het81857"><img src="https://github.com/Hunterdii/Hunterdii/blob/main/Images/buymeacoffee-icon.svg" width="60"></a>
+    </td>
+  </tr>
+</table>-->
 ###
 
 <div align="center">
@@ -49,7 +54,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Aniketyadav05/Aniketyadav05/output/snake.svg" alt="Snake animation" />
 
 ###
 
