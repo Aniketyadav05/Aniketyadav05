@@ -185,18 +185,17 @@
 <img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width = 35px height = 35px></a> Stats and Activity</h2>
   <a href="https://github.com/Aniketyadav05">
   </summary>
-<!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
-<!-- <p align="center">
-<img src="https://i.imgur.com/YCw47Dm.gif">
- -->
+
+
   <h3>💻 GitHub Profile Stats</h3> 
-<!--<table border="0" align="center">-->
+
 <table width="100">
 <tr border="0">
       <td align='center' width="510">
   
 <!--🔝 Rank Gitthub Appearance-->
-  <!--<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Hunterdii&theme=github_dark&rank_icon=github&show_icons=true&count_private=true&hide_border=true" />-->
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Hunterdii&theme=github_dark&rank_icon=github&show_icons=true&count_private=true&hide_border=true" />
+  
   <img src="https://gh-readme-profile.vercel.app/api?username=Aniketyadav05&theme=github_dark_tritanopia&border_width=0.1&photo_quality=100&format=svg&hide=issues&border_radius=17.5&hide_border=true&stroke_color=1F6FEB&bg_color=0D1117" />
   <br>
 
