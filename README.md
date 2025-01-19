@@ -164,6 +164,7 @@
   </summary>
 
 [![GeeksForGeeks](https://img.shields.io/badge/geeksforfeeks-Aniket-green)](https://www.geeksforgeeks.org/user/yadavani3yuk/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/u/aniket05_/)
 
 
 <div align="center">
