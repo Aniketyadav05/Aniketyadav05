@@ -207,6 +207,12 @@
 <td align='center' width="510">
 <!--📙 Languages-->
   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketyadav05&theme=github_dark&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/>
+  <br>
+
+<!--📏LINE-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+  </br>
 </td>
 </tr>
 </table>
@@ -224,6 +230,7 @@
 </tr>
 </table>
 </details>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
   <h2><b>👀 Visitor Count</b></h2>
   <img src="https://count.getloli.com/@Aniketyadav05?theme=booru-huggboo" alt="Aniketyadav05" />
