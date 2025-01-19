@@ -29,12 +29,8 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aniketyadav05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aniketyadav05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 <a href="https://github.com/Aniketyadav05">
-<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDgzd2ExNzB0cGs3N3NzdW5tbTlkNWF5OTd4enJoZjF5a2NhbjF3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300"></a>
+<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDgzd2ExNzB0cGs3N3NzdW5tbTlkNWF5OTd4enJoZjF5a2NhbjF3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" style="margin-top:20px;"></a>
 
 ### ✔️ I'm currently learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Back-end Development🔐
@@ -88,9 +84,6 @@
     </td>
 </tr>
     <tr>
-<!--       <td align='center' width="190">
-            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="90" height="85" />
-    </td> -->
         <td align='center' width="190">
             <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="60"/>
     </td>
@@ -160,7 +153,7 @@
   <summary><h2 align='center'><a href="https://github.com/Aniketyadav05">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZsbTI4dnE3aHEycnpwcXU3ZmRnb2h6cm42OXk0c2U0N2IwMXJvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6DZ8k92zhbw5XGg5EL/giphy.gif" width = 35px height = 35px></a> Live Projects</h2>
   </summary>
-  
+ <div style="display: flex; flex-direction: column;"> 
 <a href="https://thrill-events.netlify.app/">
   <img src="https://img.shields.io/badge/ThrillEvents-%2333f9ff" alt="Thrill Events" style="width:150px; height:50px;">
 </a>
@@ -170,7 +163,7 @@
 <a href="https://aniprojects-web.github.io/Resume-builder/">
   <img src="https://img.shields.io/badge/ResumeBuilder-white" alt="CGPA CALCULATOR" style="width:150px; height:50px;">
 </a>
-
+</div>
 </details>
 <!--🏆Competitive Coding Profile-->
 <details > 
