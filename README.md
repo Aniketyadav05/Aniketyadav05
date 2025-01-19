@@ -204,7 +204,7 @@
 
   </br>
   <!--🏆 GitHub Streak-->
-  <img  alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aniketyadav05&theme=github-dark-blue&hide_border=true" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Aniketyadav05&theme=dark-minimalist" alt="GitHub Streak" /></a>
   
 </td>
 
