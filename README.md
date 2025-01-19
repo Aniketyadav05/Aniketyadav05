@@ -225,5 +225,5 @@
 </table>
 <div align="center">
   <h2><b>👀 Visitor Count</b></h2>
-  <img src="https://count.getloli.com/@:name?theme=booru-huggboo" alt=":name" />
+  <img src="https://count.getloli.com/@Aniketyadav05?theme=booru-huggboo" alt="Aniketyadav05" />
 </div>
