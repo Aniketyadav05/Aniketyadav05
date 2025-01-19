@@ -180,3 +180,45 @@
 
 </details>
 
+<details> 
+  <summary><h2><a href="https://github.com/Hunterdii">
+<img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width = 35px height = 35px></a> Stats and Activity</h2>
+  <a href="https://github.com/Hunterdii">
+  </summary>
+<!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
+<!-- <p align="center">
+<img src="https://i.imgur.com/YCw47Dm.gif">
+ -->
+  <h3>💻 GitHub Profile Stats</h3> 
+<!--<table border="0" align="center">-->
+<table width="100">
+<tr border="0">
+      <td align='center' width="510">
+  
+<!--🔝 Rank Gitthub Appearance-->
+  <!--<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Hunterdii&theme=github_dark&rank_icon=github&show_icons=true&count_private=true&hide_border=true" />-->
+  <img src="https://gh-readme-profile.vercel.app/api?username=Hunterdii&theme=github_dark_tritanopia&border_width=0.1&photo_quality=100&format=svg&hide=issues&border_radius=17.5&hide_border=true&stroke_color=1F6FEB&bg_color=0D1117" />
+  <br>
+
+<!--📏LINE-->
+<!--<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0447.gif" height="1" width="100%">-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+  </br>
+  <!--🏆 GitHub Streak-->
+  <img  alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hunterdii&theme=github-dark-blue&hide_border=true" />
+  
+</td>
+
+<td align='center' width="510">
+<!--📙 Languages-->
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunterdii&theme=github_dark&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/>
+
+
+
+  </td>
+</tr>
+</table>
+
+
+<b>Note:</b> Top languages only hint at the colorful palette of coding languages I've explored. Yet, they're like a trailer to an epic movie, teasing the excitement of what lies beneath the surface. Dive deeper, and you'll discover the mastery and artistry I bring to each line of code, painting vibrant solutions with finesse. 
