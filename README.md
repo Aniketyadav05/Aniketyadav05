@@ -204,17 +204,13 @@
 
   </br>
   <!--🏆 GitHub Streak-->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniketyadav05&theme=dark-minimalist" alt="GitHub Streak" />
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aniketyadav05&theme=dark-minimalist&short_numbers=true" alt="GitHub Streak" />
 </td>
 
 <td align='center' width="510">
 <!--📙 Languages-->
   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketyadav05&theme=github_dark&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/>
-
-
-
-  </td>
+</td>
 </tr>
 </table>
 
