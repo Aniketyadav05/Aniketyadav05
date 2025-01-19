@@ -64,7 +64,95 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-
+<!--💻Languages and Tools🛠️-->
+<details> 
+  <summary><h2 align='center'><a href="https://github.com/Hunterdii">
+<img src="https://github.com/user-attachments/assets/0cefad05-58a9-4aa0-a070-f75a0c9b0353" height="32px"></a> Languages and Tools</h2>
+  
+  <a href="https://github.com/Hunterdii">
+  </a>
+ </summary> 
+ <div style="display: flex; align-items: flex-start; align: center">
+<table width="100">
+</details>
+    <h3>👨‍💻 Programming and Markup Languages</h3>
+<tr>
+    <td align='center' width="190">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="70" height="65">
+    </td>
+    <td align='center' width="190">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="90" height="85" />
+    </td>
+    <td align='center' width="190">
+            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="80" height="75"/>
+    </td>
+</tr>
+    <tr>
+      <td align='center' width="190">
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="90" height="85" />
+    </td>
+        <td align='center' width="190">
+            <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="60"/>
+    </td>
+        <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" width="120"/>
+    </td>
+        <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" width="120"/>
+    </td>
+    </tr>
+</table>
+<table width="100">
+    <h3>🗄️ Databases and Cloud Hosting</h3>
+<tr>
+    <td align='center' width="190">
+            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="90" height="85"/>
+    </td>
+    <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="120"/>
+    </td>
+    <td align='center' width="190">
+            <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="90" height="85"/>
+    </td>
+</tr>
+</table>
+<table width="100">
+    <h3>💻 Software and Tools</h3>
+<tr>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="120">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="120">
+    </td>
+<tr> 
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" width="120">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg" width="120">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" width="120">
+    </td>
+    </tr>
+    </tr>
+</table>
+    <table width="100">
+    <h3>🧰 Frameworks and Libraries</h3>
+    <tr>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="80" height="85">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg">
+    </td>
+</tr>
+</table>
+</details>
 
 
 
