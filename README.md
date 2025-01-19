@@ -88,9 +88,9 @@
     </td>
 </tr>
     <tr>
-      <td align='center' width="190">
+<!--       <td align='center' width="190">
             <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="90" height="85" />
-    </td>
+    </td> -->
         <td align='center' width="190">
             <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="60"/>
     </td>
@@ -157,6 +157,24 @@
 </table>
 </details>
 
+<!--🏆Competitive Coding Profile-->
+<details> 
+  <summary><h2 align='center'><a href="https://github.com/Hunterdii">
+<img src="https://github.com/user-attachments/assets/5b3cb883-6652-4525-a352-b4b9a3501e07" width = 35px height = 35px></a> Competitive Coding</h2>
+  </summary>
+[![GeeksForGeeks](https://img.shields.io/badge/geeksforfeeks-hunterdxwfu-green)](https://www.geeksforgeeks.org/user/yadavani3yuk/)	
+[![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/u/aniket05_/)
+
+<div align="center">
+        
+  ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div> 
+
+<!-- Jokes Section -->
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="330px"/>
+</div> 
 
 
+</details>
 
