@@ -156,7 +156,12 @@
 </tr>
 </table>
 </details>
-
+<details> 
+  <summary><h2 align='center'><a href="https://github.com/Aniketyadav05">
+<img src="https://pngtree.com/freepng/freelancer-software-developer-programmer-coder-illustrator_16198325.html" width = 35px height = 35px></a> Live Projects</h2>
+  </summary>
+  - [Thrill Events](https://thrill-events.netlify.app/)
+</details>
 <!--🏆Competitive Coding Profile-->
 <details> 
   <summary><h2 align='center'><a href="https://github.com/Aniketyadav05">
@@ -167,7 +172,7 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/u/aniket05_/)
 
 
-<div align="center">
+<div align="center"
         
   ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div> 
