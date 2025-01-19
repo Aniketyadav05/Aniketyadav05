@@ -181,9 +181,9 @@
 </details>
 
 <details> 
-  <summary><h2><a href="https://github.com/Hunterdii">
+  <summary><h2><a href="https://github.com/Aniketyadav05">
 <img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width = 35px height = 35px></a> Stats and Activity</h2>
-  <a href="https://github.com/Hunterdii">
+  <a href="https://github.com/Aniketyadav05">
   </summary>
 <!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <!-- <p align="center">
@@ -197,7 +197,7 @@
   
 <!--🔝 Rank Gitthub Appearance-->
   <!--<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Hunterdii&theme=github_dark&rank_icon=github&show_icons=true&count_private=true&hide_border=true" />-->
-  <img src="https://gh-readme-profile.vercel.app/api?username=Hunterdii&theme=github_dark_tritanopia&border_width=0.1&photo_quality=100&format=svg&hide=issues&border_radius=17.5&hide_border=true&stroke_color=1F6FEB&bg_color=0D1117" />
+  <img src="https://gh-readme-profile.vercel.app/api?username=Aniketyadav05&theme=github_dark_tritanopia&border_width=0.1&photo_quality=100&format=svg&hide=issues&border_radius=17.5&hide_border=true&stroke_color=1F6FEB&bg_color=0D1117" />
   <br>
 
 <!--📏LINE-->
@@ -206,13 +206,13 @@
 
   </br>
   <!--🏆 GitHub Streak-->
-  <img  alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hunterdii&theme=github-dark-blue&hide_border=true" />
+  <img  alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aniketyadav05&theme=github-dark-blue&hide_border=true" />
   
 </td>
 
 <td align='center' width="510">
 <!--📙 Languages-->
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunterdii&theme=github_dark&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketyadav05&theme=github_dark&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/>
 
 
 
