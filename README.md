@@ -202,9 +202,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
   </br>
-  <!--🏆 GitHub Streak-->
-
-<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aniketyadav05&theme=github-dark-blue&hide_border=true"  />
 </td>
 
 <td align='center' width="510">
@@ -216,3 +213,16 @@
 
 
 <b>Note:</b> Top languages only hint at the colorful palette of coding languages I've explored. Yet, they're like a trailer to an epic movie, teasing the excitement of what lies beneath the surface. Dive deeper, and you'll discover the mastery and artistry I bring to each line of code, painting vibrant solutions with finesse. 
+
+<h3>📈 Activity Graph </h3>
+<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
+<!--<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Hunterdii&color=0E9C47&style=for-the-badge">-->
+
+<table width="100">
+        <tr border="0">
+      <td align='center' width="1010">
+  <img  align="center"  src="https://github-readme-activity-graph.vercel.app/graph/?username=Aniketyadav05&theme=github-dark&hide_border=true" img alt="Aniket's Activity Graph"/>
+</td>
+</tr>
+</table>
